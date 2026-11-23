@@ -1,0 +1,11 @@
+{
+  "usuarios": [
+    { "id": 1, "nombre": "Admin FINDIT", "correo": "admin@itsjr.edu.mx", "password": "1234", "rol": "admin" },
+    { "id": 2, "nombre": "Alumno Demo", "correo": "alumno@itsjr.edu.mx", "password": "1234", "rol": "estudiante" }
+  ],
+  "reportes": [
+    { "id": 1, "titulo": "Llaves con llavero rojo", "descripcion": "Tres llaves y un llavero rojo de goma", "tipo": "Perdido", "categoria": "Llaves", "color": "Rojo", "ubicacion": "Biblioteca", "foto": "", "fecha": "2026-11-20", "estado": "Activo", "usuarioId": 2, "usuarioNombre": "Alumno Demo" },
+    { "id": 2, "titulo": "Memoria USB 32GB", "descripcion": "USB negra marca Kingston", "tipo": "Encontrado", "categoria": "Electrónicos", "color": "Negro", "ubicacion": "Laboratorio de cómputo", "foto": "", "fecha": "2026-11-21", "estado": "Activo", "usuarioId": 1, "usuarioNombre": "Admin FINDIT" }
+  ],
+  "solicitudes": []
+}

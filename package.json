@@ -1,0 +1,6 @@
+{
+  "name": "findit-api",
+  "private": true,
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "json-server": "0.17.4" }
+}
